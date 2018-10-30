@@ -1,36 +1,26 @@
 body {
     font-family: 'Roboto';
     font-size: 16px;
-    background-color: white;
-    text-align: center;
+    background-color: #F5F5F5;
 }
 
-#home {
-    text-decoration: none;
-    color: black;
+#webtitle {
+    font-family: 'Tangerine', cursive;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
 }
 
 #introduction {
-    text-align: justify;
-    width: 80%;
+    text-align: left;
+    line-height: 1.5;
+    width: 700px;
     margin: 0 auto;
-
 }
 
-.header {
-
-}
-
-
-.top {
-    width: 90%;
+#footer {
     text-align: center;
-    margin: auto auto;
-}
-
-.headings {
-    font-weight: bold;
-    font-size: 26px;
+    font-size: 14px;
 }
 
 a:link {
